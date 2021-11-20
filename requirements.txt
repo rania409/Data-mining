@@ -4,8 +4,8 @@ numpy==1.18.5
 ipywidgets==7.5.1
 matplotlib==3.2.2
 sympy==1.6.1
-Scipy==1.5.0
-Skimage==0.16.2
-Sklearn==0.23.1
-Image==7.2.0
-Cv2==4.0.1
+scipy==1.5.0
+skimage==0.16.2
+sklearn==0.23.1
+image==7.2.0
+cv2==4.0.1
